@@ -1,3 +1,5 @@
+Tests are [here.](https://github.com/roryai/DCA/blob/master/spec/DCA_tech_test_spec.rb)
+
 ###Process:
 
 ####Tuesday:
