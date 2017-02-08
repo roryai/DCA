@@ -1,6 +1,6 @@
-#####Process:
+###Process:
 
-######Tuesday:
+####Tuesday:
 
 
 Read code I wrote at Makers where I used capybara
@@ -34,7 +34,7 @@ I uninstalled Firefox 51.0.1 and used 45.7 instead. Page finally loads!
 However, my slow internet results in a timeout error- going to try again later.
 
 
-######Wednesday morning:
+####Wednesday morning:
 
 Ran the test and it passed, internet now working fast enough to load the page in under 60 seconds.
 
